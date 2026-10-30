@@ -1,20 +1,24 @@
-# 🎓 EduSpark – Online Learning Platform
+EduSpark – Online Learning Platform
 
-## 📌 Project Overview
+Learn Today. Lead Tomorrow.
 
-EduSpark is a modern and responsive online learning platform landing page designed using Figma. The platform aims to provide students and young professionals with an engaging and user-friendly learning experience.
+EduSpark is a modern and responsive online learning platform landing page designed using Figma. It aims to provide students and young professionals with an engaging and user-friendly learning experience.
 
-It helps learners explore online courses, learn from expert instructors, develop new skills and achieve their career goals.
+The platform helps learners explore online courses, learn from expert instructors, develop new skills, and achieve their career goals.
 
-## 🎯 Project Objectives
+Figma Design
+
+"View EduSpark on Figma" (https://www.figma.com/design/zLD5kW3kM1ljobjr0ZAF0D/Untitled?node-id=0-1&t=PSMlBuxGIFpDdgG4-1)
+
+Project Objectives
 
 - Create an attractive and professional landing page.
 - Provide simple and user-friendly navigation.
 - Promote online learning and skill development.
-- Create a responsive design for desktop and mobile devices.
+- Create responsive designs for desktop and mobile devices.
 - Use Figma Auto Layout and reusable components.
 
-## 👥 Target Audience
+Target Audience
 
 - School students
 - College students
@@ -22,40 +26,39 @@ It helps learners explore online courses, learn from expert instructors, develop
 - People interested in learning new skills
 - Students looking for online certification courses
 
-## 🎨 Design Features
+Design Features
 
-1. **Header Section** – Logo, navigation links and Get Started button.
-2. **Hero Section** – Attractive heading, description, illustration and Explore Courses button.
-3. **Features Section** – Three feature cards highlighting the benefits of EduSpark.
-4. **Call-to-Action Section** – Encourages users to start their learning journey.
-5. **Footer Section** – Quick links, social media links and copyright information.
+- Header Section: Logo, navigation links, and a Get Started button.
+- Hero Section: Attractive heading, description, illustration, and Explore Courses button.
+- Features Section: Three feature cards highlighting the benefits of EduSpark.
+- Call-to-Action Section: Encourages users to start their learning journey.
+- Footer Section: Quick links, social media links, and copyright information.
 
-## 🧩 Reusable Components
+Reusable Components
 
 - Primary Button
 - Feature Card
 - Navigation Link
 - EduSpark Logo
 
-## 🎨 Color Palette
+Color Palette
 
-| Color | Hex Code |
-|---|---|
-| Primary Purple | #6555D9 |
-| Blue | #3978E8 |
-| Dark Text | #292344 |
-| Light Purple | #F5F3FF |
-| White | #FFFFFF |
+Color| Hex Code
+Primary Purple| "#6555D9"
+Blue| "#3978E8"
+Dark Text| "#292344"
+Light Purple| "#F5F3FF"
+White| "#FFFFFF"
 
-## 🔤 Typography
+Typography
 
 - Font Family: Inter
 - Main Heading: Bold
-- Section Heading: Bold
+- Section Headings: Bold
 - Body Text: Regular
 - Buttons: Semi Bold
 
-## 🛠️ Tools and Technologies
+Tools and Technologies
 
 - Figma
 - Figma Auto Layout
@@ -63,49 +66,35 @@ It helps learners explore online courses, learn from expert instructors, develop
 - Figma Prototype
 - UI/UX Design Principles
 
-## 📱 Responsive Design
+Responsive Design
 
 The landing page is designed for two screen sizes:
 
 - Desktop: 1440px
 - Mobile: 390px
 
-The layout uses Auto Layout and responsive resizing to provide a consistent experience across devices.
+The layouts use Auto Layout and responsive resizing to maintain consistency across different screen sizes.
 
-## 🖼️ Project Screenshots
-
-### Desktop Design
-Add your desktop screenshot here.
-
-### Mobile Design
-Add your mobile screenshot here.
-
-## 🔗 Figma Design Link
-
-(https://www.figma.com/design/zLD5kW3kM1ljobjr0ZAF0D/Untitled?node-id=0-1&t=PSMlBuxGIFpDdgG4-1)
-
-## 📚 Learning Outcomes
+Learning Outcomes
 
 - Understanding UI/UX design principles.
 - Creating responsive website layouts.
 - Using Auto Layout in Figma.
 - Building reusable design components.
-- Maintaining consistent colors, typography and spacing.
+- Maintaining consistent colors, typography, and spacing.
 - Creating a professional landing page design.
 
-## 👨‍🎓 Project Information
+Project Information
 
-**Project Name:** EduSpark – Online Learning Platform
-
-**Project Type:** UI/UX Design Assignment
-
-**Tool Used:** Figma
-
-**Submission:** IPS UI/UX Design Assignment
+Detail| Description
+Project Name| EduSpark – Online Learning Platform
+Author| Rajbhar Vivek M.
+Project Type| UI/UX Design Assignment
+Tool Used| Figma
+Submission| IPS UI/UX Design Assignment
 
 ---
 
-⭐ Designed with creativity and learning in mind.
+Designed with creativity and learning in mind.
 
-**EduSpark – Learn Today. Lead Tomorrow.**
-
+EduSpark – Learn Today. Lead Tomorrow.
