@@ -82,7 +82,7 @@ Add your mobile screenshot here.
 
 ## 🔗 Figma Design Link
 
-Paste your Figma project link here.
+(https://www.figma.com/design/zLD5kW3kM1ljobjr0ZAF0D/Untitled?node-id=0-1&t=PSMlBuxGIFpDdgG4-1)
 
 ## 📚 Learning Outcomes
 
